@@ -1,0 +1,11 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+h3{
+    text-transform: uppercase;
+}
+
+#but:hover{
+    color: white;
+}
